@@ -8,6 +8,9 @@ body {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
 }
+h1 {
+  color: firebrick;
+}
 
 h1,
 h2,
